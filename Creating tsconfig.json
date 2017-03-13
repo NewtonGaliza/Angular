@@ -1,0 +1,3 @@
+tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata
+
+//Make sure you run this command in your new folder directory using cmd (command prompt), i used terminal of VSC
