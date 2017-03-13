@@ -1,0 +1,1 @@
+tsc --init --target es5 --sourceMap --experimentalDecorators --emitDecoratorMetadata
